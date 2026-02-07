@@ -1,0 +1,80 @@
+# ROSÉ – 3am
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Eh-eh, eh-eh, eh-eh
+I just saw a red flag
+Gonna pretend I didn't see that
+'Cause is it really,
+really that bad?
+I need you really,
+really that bad
+So, can we keep
+this story rolling?
+Forget that shit
+my mother always told me
+'Cause nothing's
+really perfect like that
+I need you really,
+really that bad
+I need you really,
+really that bad
+The one I run to
+Take my makeup off and
+say goodnight to
+The one I pretty talk and
+ugly cry to
+The world can roll their eyes,
+but there's no use
+I just want it to bе you
+When it's 3 a.m.​
+I'm losing myself
+and my mind again
+The onе who gives me love
+that is bulletproof
+The world can roll their eyes,
+but there's no use
+I just want it to be you
+Eh-eh, eh-eh, eh-eh
+I just want it to be you
+Eh-eh, eh-eh, eh-eh
+I just want it to be you
+Hold me
+Kiss me on my face
+Talk shit about the world
+with me all day
+And even when I putting you
+through hell
+Say I'm not like anyone else
+Slowly worlds roll off my tongue
+You're everything I need
+and it's so dumb
+And even when you put me
+through hell
+You're not like anyone else
+The one I run to
+Take my makeup off and
+say goodnight to
+The one I pretty talk and
+ugly cry to
+The world can roll their eyes,
+but there's no use
+I just want it to bе you
+When it's 3 a.m.​
+And I'm losing myself and
+my mind again
+The onе who gives me love that
+is bulletproof
+The world can roll their eyes,
+but there's no use
+I just want it to be you
+Eh-eh, eh-eh, eh-eh
+I just want it to be you
+Eh-eh, eh-eh, eh-eh
+I just want it to be you
+Eh-eh, eh-eh, eh-eh
+I just want it to be you
+Eh-eh, eh-eh, eh-eh
+I just want it to be you
+```
