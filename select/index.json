@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "3am",
+  "base_artist": "ROSÉ",
+  "createdAt": "2026-02-07T03:42:53.778656Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Allegro Opus 3.3am",
+      "artist": "Eason Chan",
+      "has_synced": true,
+      "path": "select/01_Allegro_Opus_3.3am_Eason_Chan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "3am",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/02_3am_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "3AM in New Orleans",
+      "artist": "A$AP ANT feat. Curren$y",
+      "has_synced": true,
+      "path": "select/03_3AM_in_New_Orleans_A$AP_ANT_feat._Curren$y.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "3am In New Orleans",
+      "artist": "A$AP ANT, Curren$y",
+      "has_synced": true,
+      "path": "select/04_3am_In_New_Orleans_A$AP_ANT,_Curren$y.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "3AM Eternal - Live at the S.S.L.",
+      "artist": "The KLF",
+      "has_synced": false,
+      "path": "select/05_3AM_Eternal_-_Live_at_the_S.S.L._The_KLF.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "3am Eternal (Blue Danube Orbital Mix)",
+      "artist": "The KLF",
+      "has_synced": false,
+      "path": "select/06_3am_Eternal_(Blue_Danube_Orbital_Mix)_The_KLF.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hyperballad (LFO's 3am Mix)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/07_Hyperballad_(LFO's_3am_Mix)_Björk.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "3AM (Pull Up) (feat. MØ)",
+      "artist": "Charli XCX feat. MØ",
+      "has_synced": true,
+      "path": "select/08_3AM_(Pull_Up)_(feat._MØ)_Charli_XCX_feat._MØ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "3AM (Pull Up) (feat. MØ)",
+      "artist": "Charli XCX",
+      "has_synced": false,
+      "path": "select/09_3AM_(Pull_Up)_(feat._MØ)_Charli_XCX.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "3am at a Party",
+      "artist": "Soccer Mommy",
+      "has_synced": true,
+      "path": "select/10_3am_at_a_Party_Soccer_Mommy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "3am",
+      "artist": "Halsey",
+      "has_synced": true,
+      "path": "select/11_3am_Halsey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "3am",
+      "artist": "Meghan Trainor",
+      "has_synced": true,
+      "path": "select/12_3am_Meghan_Trainor.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "3AM Spiritual",
+      "artist": "Smith Westerns",
+      "has_synced": true,
+      "path": "select/13_3AM_Spiritual_Smith_Westerns.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hearts A Mess - Joe Hardy 3AM Mix",
+      "artist": "Gotye",
+      "has_synced": true,
+      "path": "select/14_Hearts_A_Mess_-_Joe_Hardy_3AM_Mix_Gotye.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hearts a Mess - 3AM Mix",
+      "artist": "Gotye",
+      "has_synced": false,
+      "path": "select/15_Hearts_a_Mess_-_3AM_Mix_Gotye.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "3AM",
+      "artist": "Thundercat",
+      "has_synced": true,
+      "path": "select/16_3AM_Thundercat.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "3Am",
+      "artist": "Kate Nash",
+      "has_synced": true,
+      "path": "select/17_3Am_Kate_Nash.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "3AM Radio",
+      "artist": "Jack Johnson",
+      "has_synced": true,
+      "path": "select/18_3AM_Radio_Jack_Johnson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "3am",
+      "artist": "ROSÉ",
+      "has_synced": false,
+      "path": "select/pl_01_3am_ROSÉ.txt"
+    }
+  ]
+}
